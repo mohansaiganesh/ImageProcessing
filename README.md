@@ -1,4 +1,9 @@
 # ImageProcessing
 Contains the list of projects having image processing operations 
 
-As of now, except 'README.md' and '.git', all the files are encrypted for the security of the code.
+The files in a particular folder are encrypted if '{"ENCRYPTED": "TRUE"}' in STATUS.md file.
+
+If '{"ENCRYPTED": "FALSE"}', it means the files of a particular folder are not encrypted.
+
+
+
