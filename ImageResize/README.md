@@ -1,0 +1,1 @@
+Contains the python code to resize the image to custom dimensions.
