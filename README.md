@@ -6,4 +6,4 @@ The files in a particular folder are encrypted if '{"ENCRYPTED": "TRUE"}' in STA
 If '{"ENCRYPTED": "FALSE"}', it means the files of a particular folder are not encrypted.
 
 
-
+upload the pending projects from local
